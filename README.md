@@ -1,1 +1,3 @@
-# DevOps-project-by-Rupayan
+# maven-project
+
+Simple Maven Project
